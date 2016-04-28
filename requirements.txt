@@ -1,0 +1,6 @@
+colorama==0.3.7
+Django==1.9.5
+py==1.4.31
+pytest==2.9.1
+pytest-django==2.9.1
+wheel==0.24.0
